@@ -1,0 +1,4 @@
+DEBUG: 2025/12/17 14:27:20 log.go:32: This is an debug message
+WARN: 2025/12/17 14:27:20 This is an warning message
+INFO: 2025/12/17 14:27:20 log.go:34: This is an info message
+ERROR: 2025/12/17 14:27:20 log.go:35: This is an error message
